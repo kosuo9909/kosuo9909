@@ -7,8 +7,8 @@ I am familiar with both front-end and back-end technologies, however, I am curre
 
 - 📫 How to reach me? Feel free to send me an email at stanevbsn@gmail.com
 
-<p>&nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=kosuo9909&show_icons=true&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true" alt="g3root stats card" /></p>
+<!-- <p>&nbsp;
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=kosuo9909&show_icons=true&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true" alt="g3root stats card" /></p> -->
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kosuo9909&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true&layout=compact" alt="kosuo9909 stats card" /></p>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank">
